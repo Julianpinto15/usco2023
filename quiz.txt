@@ -1,0 +1,5 @@
+1. crear repositorio
+2. Clonar
+3. add contenido
+4. crear nuevas ramas
+5. Cada rama debe tener contenido diferente.
